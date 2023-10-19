@@ -1,0 +1,15 @@
+nav a.active-link {
+  color: red;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.user-filter {
+  padding: 0.3rem;
+  cursor: pointer;
+  background-color: #747bff;
+}
